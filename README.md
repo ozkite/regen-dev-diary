@@ -1,4 +1,4 @@
-# Regen Eliza & SwipePad - Dev Diary 📔
+# Regen Eliza Agent - Dev Diary 📔
 
 This repository serves as the official architecture log and developer diary for the ongoing build of Regen Eliza and the SwipePad ecosystem.
 
