@@ -1,0 +1,1 @@
+- Decided to use media swapping instead of WebGL for avatar
