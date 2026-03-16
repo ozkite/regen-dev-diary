@@ -6,3 +6,4 @@
 - Network sync: Validated Celo Sepolia RPC connection endpoints.
 - LLM Pipeline: Calibrated prompt chunking for intent parsing.
 - Audio Engine: Initialized ElevenLabs buffer stream handlers.
+- x402 Protocol: Updated thirdweb SDK dependency requirements.
