@@ -7,3 +7,4 @@
 - LLM Pipeline: Calibrated prompt chunking for intent parsing.
 - Audio Engine: Initialized ElevenLabs buffer stream handlers.
 - x402 Protocol: Updated thirdweb SDK dependency requirements.
+- ERC-8004: Verified agent registry metadata structure.
