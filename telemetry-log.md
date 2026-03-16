@@ -4,3 +4,4 @@
 - Agent telemetry sync: Mon 16 Mar 2026 08:26:41 +08
 - Agent telemetry sync: Mon 16 Mar 2026 08:26:44 +08
 - Network sync: Validated Celo Sepolia RPC connection endpoints.
+- LLM Pipeline: Calibrated prompt chunking for intent parsing.
