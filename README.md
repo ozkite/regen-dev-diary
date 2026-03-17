@@ -106,6 +106,20 @@ ____/\\\\\\\\\__________________________________________________________________
 
 
 
+RRRR  EEEEE  GGG  EEEEE N   N       EEEEE L     III ZZZZZ   A   
+R   R E     G     E     NN  N       E     L      I     Z   A A  
+RRRR  EEEE  G GG  EEEE  N N N       EEEE  L      I    Z   AAAAA 
+R  R  E     G   G E     N  NN       E     L      I   Z    A   A 
+R   R EEEEE  GGG  EEEEE N   N       EEEEE LLLLL III ZZZZZ A   A 
+
+
+
+
+
+
+
+                                                                
+
 
 
 
