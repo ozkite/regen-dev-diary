@@ -10,3 +10,4 @@
 - UI/UX Polish and R3F Avatar integration step 10: Tue 17 Mar 2026 14:59:00 +08
 - UI/UX Polish and R3F Avatar integration step 11: Tue 17 Mar 2026 14:59:02 +08
 - UI/UX Polish and R3F Avatar integration step 12: Tue 17 Mar 2026 14:59:04 +08
+- R3F Camera alignment and UI clipping resolution (Step 1): Tue 17 Mar 2026 16:34:03 +08
