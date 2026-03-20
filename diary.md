@@ -8,3 +8,4 @@ Agent: Implementing the core logic. Handling intent parsing for micro-donations.
 DevOps: Using PM2 to manage the agent process for high-availability.
 Frontend: Initializing Next.js dashboard on Vercel.
 Pivot: Moving from heavy 3D WebGL to optimized 2D anime avatar for better performance.
+Protocol: Activating HTTP 402 (x402) for automated agentic payments.
