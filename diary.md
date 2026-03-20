@@ -1,2 +1,3 @@
 Project Kickoff: Initializing Regen Eliza. Goal: Bridge human intent with ReFi public goods.
 Architecture: Deciding on a decoupled stack. Pop_OS for dev, Droplet for agent logic, Vercel for UI.
+IPFS: Successfully uploaded initial metadata to Pinata. CID: bafkreifm4evk5axg64ld3suzff2bf2kcdi5asa3j5vbc7bc7gnjx6cta6q
