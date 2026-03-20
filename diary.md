@@ -11,3 +11,4 @@ Pivot: Moving from heavy 3D WebGL to optimized 2D anime avatar for better perfor
 Protocol: Activating HTTP 402 (x402) for automated agentic payments.
 Interoperability: Exposing MCP (Model Context Protocol) endpoints at /.well-known/mcp.json.
 Interoperability: Finalizing A2A and OASF endpoints for cross-agent collaboration.
+Git: Resolved complex merge conflicts between Antigravity updates and GitHub web edits.
