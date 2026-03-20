@@ -6,3 +6,4 @@ Metadata: Created synthesis-metadata.json with 8004 standard structure.
 Server: Provisioning Linux Droplet. Configuring Caddy for automated SSL on api.regeneliza.com.
 Agent: Implementing the core logic. Handling intent parsing for micro-donations.
 DevOps: Using PM2 to manage the agent process for high-availability.
+Frontend: Initializing Next.js dashboard on Vercel.
