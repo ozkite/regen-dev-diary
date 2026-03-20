@@ -17,3 +17,4 @@ UX: Added clickable 'curl' command to UI for instant agent skill ingestion.
 A2A: Created public skill.md file for autonomous agents to read our tools.
 UI: Freezing dashboard layout at 100vh. Improving accessibility and text sizes.
 Compliance: Reaching 100/100 metadata score on 8004scan.
+Done: Regen Eliza is live. Decoupled, verified, and ready for the regenerative future.
