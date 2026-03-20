@@ -13,3 +13,4 @@ Interoperability: Exposing MCP (Model Context Protocol) endpoints at /.well-know
 Interoperability: Finalizing A2A and OASF endpoints for cross-agent collaboration.
 Git: Resolved complex merge conflicts between Antigravity updates and GitHub web edits.
 Web3: Pushing final Qm... CID to the 8004 Registry via CeloScan.
+UX: Added clickable 'curl' command to UI for instant agent skill ingestion.
