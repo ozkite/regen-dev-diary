@@ -7,3 +7,4 @@ Server: Provisioning Linux Droplet. Configuring Caddy for automated SSL on api.r
 Agent: Implementing the core logic. Handling intent parsing for micro-donations.
 DevOps: Using PM2 to manage the agent process for high-availability.
 Frontend: Initializing Next.js dashboard on Vercel.
+Pivot: Moving from heavy 3D WebGL to optimized 2D anime avatar for better performance.
