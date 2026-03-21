@@ -16,3 +16,5 @@ log: UI/UX audit - removing the initialization barrier
 note: coordinating between the Droplet and Vercel environments
 --- Entry: Sat 21 Mar 2026 13:28:38 +08 ---
 log: the importance of CAIP-2 compliance for agent discovery
+--- Entry: Sat 21 Mar 2026 13:28:40 +08 ---
+note: documenting the Octant impact verification flow
