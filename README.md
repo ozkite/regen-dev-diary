@@ -360,3 +360,4 @@ __________            ____                      ___________.__   .__
 
         
 ## March 21: Score Recovery
+- Debugged HTTP 405 Method Not Allowed via Caddy
