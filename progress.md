@@ -24,3 +24,5 @@ log: testing Uniswap liquidity swaps via the agent panel
 note: finalizing the ENS batch-donation router logic
 --- Entry: Sat 21 Mar 2026 13:28:47 +08 ---
 log: audit of the MCP tool definitions for tool-use agents
+--- Entry: Sat 21 Mar 2026 13:28:49 +08 ---
+note: preparing the final pitch deck and video demo
