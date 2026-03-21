@@ -14,3 +14,5 @@ note: reflections on AI sovereignty and ERC-8004
 log: UI/UX audit - removing the initialization barrier
 --- Entry: Sat 21 Mar 2026 13:28:36 +08 ---
 note: coordinating between the Droplet and Vercel environments
+--- Entry: Sat 21 Mar 2026 13:28:38 +08 ---
+log: the importance of CAIP-2 compliance for agent discovery
