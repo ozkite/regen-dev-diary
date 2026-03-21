@@ -10,3 +10,5 @@ note: why we chose Pinata as our primary IPFS gateway
 log: mapping out the Regen Eliza skill tree
 --- Entry: Sat 21 Mar 2026 13:28:32 +08 ---
 note: reflections on AI sovereignty and ERC-8004
+--- Entry: Sat 21 Mar 2026 13:28:34 +08 ---
+log: UI/UX audit - removing the initialization barrier
