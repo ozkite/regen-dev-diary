@@ -6,3 +6,5 @@ note: deep dive into x402 fee abstraction mechanics
 log: solving the 502 Bad Gateway issue with host headers
 --- Entry: Sat 21 Mar 2026 13:28:28 +08 ---
 note: why we chose Pinata as our primary IPFS gateway
+--- Entry: Sat 21 Mar 2026 13:28:30 +08 ---
+log: mapping out the Regen Eliza skill tree
