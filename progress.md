@@ -18,3 +18,5 @@ note: coordinating between the Droplet and Vercel environments
 log: the importance of CAIP-2 compliance for agent discovery
 --- Entry: Sat 21 Mar 2026 13:28:40 +08 ---
 note: documenting the Octant impact verification flow
+--- Entry: Sat 21 Mar 2026 13:28:43 +08 ---
+log: testing Uniswap liquidity swaps via the agent panel
