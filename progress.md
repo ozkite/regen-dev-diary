@@ -20,3 +20,5 @@ log: the importance of CAIP-2 compliance for agent discovery
 note: documenting the Octant impact verification flow
 --- Entry: Sat 21 Mar 2026 13:28:43 +08 ---
 log: testing Uniswap liquidity swaps via the agent panel
+--- Entry: Sat 21 Mar 2026 13:28:45 +08 ---
+note: finalizing the ENS batch-donation router logic
