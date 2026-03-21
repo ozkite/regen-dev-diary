@@ -12,3 +12,5 @@ log: mapping out the Regen Eliza skill tree
 note: reflections on AI sovereignty and ERC-8004
 --- Entry: Sat 21 Mar 2026 13:28:34 +08 ---
 log: UI/UX audit - removing the initialization barrier
+--- Entry: Sat 21 Mar 2026 13:28:36 +08 ---
+note: coordinating between the Droplet and Vercel environments
