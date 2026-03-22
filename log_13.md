@@ -1,2 +1,2 @@
-# Dev Log Entry 13: Hackathon Sprint
-Documenting A2A infrastructure builds and firewall debugging.
+# Dev Log Entry 13
+Task: docs(day5): log CeloScan Write-as-Proxy metadata update
