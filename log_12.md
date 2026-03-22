@@ -1,2 +1,2 @@
-# Dev Log Entry 12: Hackathon Sprint
-Documenting A2A infrastructure builds and firewall debugging.
+# Dev Log Entry 12
+Task: docs(day4): document IPFS metadata upload via Pinata
